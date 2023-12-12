@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JitendraPrajapat
-- 👀 I’m interested in IOT, Data Science
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Jo on Data scientist
+- 👀 I’m interested in Embedded Systems, IOT
 - 📫 How to reach me ...
 
 <!---
